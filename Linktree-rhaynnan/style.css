@@ -42,7 +42,7 @@ body {
   align-items: flex-start;
   top: 1.5em;
   left: 1em;
-  position: relative;
+  position: absolute;
 }
 
 .social-media-container-right {
@@ -54,7 +54,7 @@ body {
   align-items: flex-end;
   top: 1.5em;
   right: 1em;
-  position: relative;
+  position: absolute;
 }
 
 .social-media-container-left a,
