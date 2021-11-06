@@ -35,22 +35,24 @@ body {
 
 .social-media-container-left{
   width: 40%;
-  height: 60vh;
+  height: 53vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-start;
+  top: 1.5em;
   left: 1em;
   position: relative;
 }
 
 .social-media-container-right {
   width: 40%;
-  height: 60vh;
+  height: 53vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-end;
+  top: 1.5em;
   right: 1em;
   position: relative;
 }
