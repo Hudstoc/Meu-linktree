@@ -35,7 +35,7 @@ body {
 
 .social-media-container-left{
   width: 40%;
-  height: 20em;
+  height: 15em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -47,7 +47,7 @@ body {
 
 .social-media-container-right {
   width: 40%;
-  height: 20em;
+  height: 15em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
