@@ -16,15 +16,17 @@ body {
 
 .container {
   margin: auto;
-  width: 335px;
+  width: 330px;
   height: 100vh;
   display: flex;
   justify-content: center;
   position: absolute;
   flex-direction: column;
+  border: 1px solid red;
 }
 
 img.banner{
+  width: 100%;
   height: calc(100vh - 20vh);
 }
 img.logo{
